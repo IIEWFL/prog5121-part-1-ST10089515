@@ -9,11 +9,14 @@ Gamaliel Menil httpswww.youtube.comwatchv=az8mHaJXpRE
 
 generated from W3Schools httpswww.w3schools.comcscs_user_input.php
 
-Arrays in C#: Microsoft. (n.d.). Arrays in C#. Retrieved April 28, 2023, from https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/
-Console class in C#: Microsoft. (n.d.). Console Class. Retrieved April 28, 2023, from https://docs.microsoft.com/en-us/dotnet/api/system.console?view=net-6.0
-switch statement in C#: Microsoft. (n.d.). switch statement (C# reference). Retrieved April 28, 2023, from https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/switch
-string class in C#: Microsoft. (n.d.). String Class. Retrieved April 28, 2023, from https://docs.microsoft.com/en-us/dotnet/api/system.string?view=net-6.0
-double data type in C#: Microsoft. (n.d.). Floating-Point Numeric Types. Retrieved April 28, 2023, from https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types
+Arrays in java: Microsoft. (n.d.). Arrays in Jvaa. Retrieved April 28, 2023, from https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/
+
+Console class in java: Microsoft. (n.d.). Console Class. Retrieved April 28, 2023, from https://docs.microsoft.com/en-us/dotnet/api/system.console?view=net-6.0
+
+switch statement in java: Microsoft. (n.d.). switch statement (Java reference). Retrieved April 28, 2023, from https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/switch
+string class in java: Microsoft. (n.d.). String Class. Retrieved April 28, 2023, from https://docs.microsoft.com/en-us/dotnet/api/system.string?view=net-6.0
+double data type in java: Microsoft. (n.d.). Floating-Point Numeric Types. Retrieved April 28, 2023, from https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types
+
 Object-oriented programming (OOP) concepts: Wikipedia contributors. (2023, April 22). Object-oriented programming. In Wikipedia, The Free Encyclopedia. Retrieved April 28, 2023, from https://en.wikipedia.org/wiki/Object-oriented_programming
 
 How the programs works 
